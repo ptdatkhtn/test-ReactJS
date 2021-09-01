@@ -1,0 +1,1 @@
+rm -rf node_modules && yarn && yarn tsc --noEmit true && yarn test

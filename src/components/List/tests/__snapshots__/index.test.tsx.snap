@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List should render without error 1`] = `
+<div>
+  <div
+    class="ant-list ant-list-split "
+  >
+    <div
+      class="ant-spin-nested-loading"
+    >
+      <div
+        class="ant-spin-container"
+      >
+        <div>
+          item 1
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip should render without error 1`] = `
+<div>
+  <span
+    class=""
+  />
+</div>
+`;

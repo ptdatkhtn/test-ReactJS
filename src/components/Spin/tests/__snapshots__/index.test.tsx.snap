@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spin should render without error 1`] = `
+<div>
+  <div
+    class="ant-spin ant-spin-spinning ant-spin-show-text "
+  >
+    <span
+      class="ant-spin-dot ant-spin-dot-spin"
+    >
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+    </span>
+    <div
+      class="ant-spin-text"
+    >
+      spinning
+    </div>
+  </div>
+</div>
+`;

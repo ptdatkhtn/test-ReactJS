@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cloud Item should match snapshot and trigger click function 1`] = `
+.c0.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  cursor: pointer;
+  padding: 0.8rem;
+  margin-bottom: 0.8rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 3px 8px 0 rgb(0 0 0 / 3%);
+  background-color: white;
+  border: 1px solid transparent;
+  -webkit-transition: border 0.2s linear;
+  transition: border 0.2s linear;
+}
+
+.c0.c0:hover {
+  border: 1px solid #8f919d;
+}
+
+.c1 {
+  color: #ff514d;
+  font-size: 2rem;
+}
+
+.c2 {
+  color: #565867;
+  font-size: 1.6rem;
+}
+
+<div>
+  <li
+    class="ant-list-item c0"
+    data-testid="cloud_item"
+  >
+    <span
+      class="c1"
+    >
+      cloud name
+    </span>
+    <span
+      class="c2"
+    >
+      cloud description
+    </span>
+  </li>
+</div>
+`;

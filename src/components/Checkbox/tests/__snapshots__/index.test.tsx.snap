@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox should match snapshot 1`] = `
+<div>
+  <label
+    class="ant-checkbox-wrapper "
+  >
+    <span
+      class="ant-checkbox"
+    >
+      <input
+        class="ant-checkbox-input"
+        type="checkbox"
+        value=""
+      />
+      <span
+        class="ant-checkbox-inner"
+      />
+    </span>
+    <span>
+      Label
+    </span>
+  </label>
+  <label
+    class="ant-checkbox-wrapper ant-checkbox-wrapper-disabled "
+  >
+    <span
+      class="ant-checkbox ant-checkbox-disabled"
+    >
+      <input
+        class="ant-checkbox-input"
+        disabled=""
+        type="checkbox"
+        value=""
+      />
+      <span
+        class="ant-checkbox-inner"
+      />
+    </span>
+    <span>
+      Label
+    </span>
+  </label>
+  <label
+    class="ant-checkbox-wrapper ant-checkbox-wrapper-checked "
+  >
+    <span
+      class="ant-checkbox ant-checkbox-checked"
+    >
+      <input
+        checked=""
+        class="ant-checkbox-input"
+        type="checkbox"
+        value=""
+      />
+      <span
+        class="ant-checkbox-inner"
+      />
+    </span>
+    <span>
+      Label
+    </span>
+  </label>
+  <label
+    class="ant-checkbox-wrapper ant-checkbox-wrapper-checked ant-checkbox-wrapper-disabled "
+  >
+    <span
+      class="ant-checkbox ant-checkbox-checked ant-checkbox-disabled"
+    >
+      <input
+        checked=""
+        class="ant-checkbox-input"
+        disabled=""
+        type="checkbox"
+        value=""
+      />
+      <span
+        class="ant-checkbox-inner"
+      />
+    </span>
+    <span>
+      Label
+    </span>
+  </label>
+</div>
+`;
